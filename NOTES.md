@@ -1,3 +1,3 @@
 # Notes
 
-You will recieve a pull request once the agent picks up this issue.
+You will receive a pull request once the agent picks up this issue.
